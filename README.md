@@ -6,12 +6,12 @@
 <strong>
   Links
 </strong>
+
 - [Backend](https://github.com/Samaraferreira/Covid-backend)
 - [Web](https://github.com/Samaraferreira/Covid-web)
 
-<p>
-  <img src="https://raw.githubusercontent.com/Samaraferreira/Monitoramento-Covid/master/.github/Monitoramento.gif" width="90%" />
-</p>
+
+![preview](https://raw.githubusercontent.com/Samaraferreira/Monitoramento-Covid/master/.github/Monitoramento.gif)
 
 
 
