@@ -7,7 +7,9 @@
   Sistema
 </strong>
 
-
+<p>
+  <img src="https://raw.githubusercontent.com/Samaraferreira/Monitoramento-Covid/master/.github/Monitoramento.gif" width="100%" />
+</p>
 
 <strong>
   Links
